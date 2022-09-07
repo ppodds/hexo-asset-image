@@ -1,5 +1,5 @@
 {
-  "name": "hexo-asset-image",
+  "name": "@ppodds/hexo-asset-image",
   "version": "0.0.1",
   "description": "Replace asset image to absolute path. Fork from hexo-asset-image-for-hexo5.",
   "main": "index.js",
